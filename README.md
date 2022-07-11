@@ -6,8 +6,8 @@ Jogo de Memória do League of Legends  criando com HTML, CSS e JavaScript
 [Manual do Dev](https://www.youtube.com/c/ManualdoDev/featured)
 
 
-[Lol Icon] (https://league-legends.br.uptodown.com/windows)
-[Cards dos Campeões] (https://www.leagueoflegends.com/pt-br/champions/?_gl=1*8z4z45*_ga*MzEwNDQ5Nzg4LjE2NTc0OTc1MzM.*_ga_FXBJE5DEDD*MTY1NzQ5NzUxOC4xLjAuMTY1NzQ5NzUxOC42MA..&_ga=2.75661590.2021915133.1657497533-310449788.1657497533)
+[Lol Icon](https://league-legends.br.uptodown.com/windows)
+[Cards dos Campeões](https://www.leagueoflegends.com/pt-br/champions/?_gl=1*8z4z45*_ga*MzEwNDQ5Nzg4LjE2NTc0OTc1MzM.*_ga_FXBJE5DEDD*MTY1NzQ5NzUxOC4xLjAuMTY1NzQ5NzUxOC42MA..&_ga=2.75661590.2021915133.1657497533-310449788.1657497533)
 [Background](https://medium.com/betaredacao/final-do-campeonato-de-league-of-legends-arrebata-torcedores-e-comove-jogadores-72022a45be11)
 
 
