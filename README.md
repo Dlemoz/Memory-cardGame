@@ -1,10 +1,11 @@
 # League of Legends Memory
 Jogo de Memória do League of Legends  criando com HTML, CSS e JavaScript
 
-## Referência 
+##Referência 
 
 [Manual do Dev](https://www.youtube.com/c/ManualdoDev/featured)
 
+##Créditos das imagens
 
 [Lol Icon](https://league-legends.br.uptodown.com/windows)
 
@@ -13,6 +14,6 @@ Jogo de Memória do League of Legends  criando com HTML, CSS e JavaScript
 [Background](https://medium.com/betaredacao/final-do-campeonato-de-league-of-legends-arrebata-torcedores-e-comove-jogadores-72022a45be11)
 
 
-### Exemplo
+###Exemplo
 https://user-images.githubusercontent.com/100981592/178332591-32dbf913-0846-4077-a023-b46b0d600186.mp4
 
